@@ -1,0 +1,16 @@
+com.winsontan520
+int attr antiAlias 0x7f040001
+int attr overlayColor 0x7f040002
+int attr revealSize 0x7f040003
+int attr scratchDrawable 0x7f040004
+int attr scratchable 0x7f040005
+int drawable ic_launcher 0x7f090001
+int string app_name 0x7f150001
+int style AppBaseTheme 0x7f160001
+int style AppTheme 0x7f160002
+int[] styleable WScratchView { 0x7f040001, 0x7f040002, 0x7f040003, 0x7f040004, 0x7f040005 }
+int styleable WScratchView_antiAlias 0
+int styleable WScratchView_overlayColor 1
+int styleable WScratchView_revealSize 2
+int styleable WScratchView_scratchDrawable 3
+int styleable WScratchView_scratchable 4
